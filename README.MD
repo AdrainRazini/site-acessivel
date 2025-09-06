@@ -8,6 +8,7 @@ Projeto de refatoração de um site, implementando **recursos de acessibilidade*
 ✔️ **Alt em imagens** – Descrição para usuários com deficiência visual  
 ✔️ **Tabindex** – Navegação aprimorada pelo teclado  
 ✔️ **Menu de acessibilidade** – Opções para aumentar contraste e fonte  
+✔️ **Criação De Um Site Vercel** –  Um Dominio na Internet
 
 ## 🛠 Tecnologias Utilizadas  
 <div align="left">
